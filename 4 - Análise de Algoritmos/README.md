@@ -1,6 +1,6 @@
 ## Atividade
 
-### INDICES ###
+### ÍNDICES ###
 
 Você recebe uma vetor A de inteiros não negativos de tamanho n. Sua tarefa é ordernar o vetor em ordem não decrescente e imprimir os índices originais da novo vetor ordenado.
 
