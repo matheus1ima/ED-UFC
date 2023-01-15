@@ -15,12 +15,6 @@ void ordenar(int n, vector<int> numeros, vector<int> numeros2) {
         }
     }
     
-    //for(int i = 0; i < n; i++){
-        //cout << numeros[i];
-    //}
-    
-    //cout << " " << endl;
-    
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++){
             if(numeros[i]  == numeros2[j]){
